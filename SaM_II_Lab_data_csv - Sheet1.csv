@@ -1,0 +1,61 @@
+Participant_number,Drug,Alterness,Driving_responsiveness
+1,Placebo,Fresh,24
+2,Placebo,Fresh,25
+3,Placebo,Fresh,13
+4,Placebo,Fresh,22
+5,Placebo,Fresh,16
+6,Placebo,Fresh,23
+7,Placebo,Fresh,18
+8,Placebo,Fresh,19
+9,Placebo,Fresh,24
+10,Placebo,Fresh,26
+11,Placebo,Tired,13
+12,Placebo,Tired,12
+13,Placebo,Tired,14
+14,Placebo,Tired,16
+15,Placebo,Tired,17
+16,Placebo,Tired,13
+17,Placebo,Tired,4
+18,Placebo,Tired,3
+19,Placebo,Tired,2
+20,Placebo,Tired,6
+21,Drug A,Fresh,18
+22,Drug A,Fresh,8
+23,Drug A,Fresh,9
+24,Drug A,Fresh,14
+25,Drug A,Fresh,16
+26,Drug A,Fresh,15
+27,Drug A,Fresh,6
+28,Drug A,Fresh,9
+29,Drug A,Fresh,8
+30,Drug A,Fresh,17
+31,Drug A,Tired,21
+32,Drug A,Tired,24
+33,Drug A,Tired,22
+34,Drug A,Tired,23
+35,Drug A,Tired,20
+36,Drug A,Tired,13
+37,Drug A,Tired,11
+38,Drug A,Tired,17
+39,Drug A,Tired,13
+40,Drug A,Tired,16
+41,Drug B,Fresh,27
+42,Drug B,Fresh,14
+43,Drug B,Fresh,19
+44,Drug B,Fresh,29
+45,Drug B,Fresh,27
+46,Drug B,Fresh,23
+47,Drug B,Fresh,19
+48,Drug B,Fresh,17
+49,Drug B,Fresh,20
+50,Drug B,Fresh,25
+51,Drug B,Tired,21
+52,Drug B,Tired,11
+53,Drug B,Tired,14
+54,Drug B,Tired,22
+55,Drug B,Tired,19
+56,Drug B,Tired,9
+57,Drug B,Tired,14
+58,Drug B,Tired,11
+59,Drug B,Tired,21
+60,Drug B,Tired,18
